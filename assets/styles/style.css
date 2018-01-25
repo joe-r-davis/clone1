@@ -1,0 +1,105 @@
+.orange{
+    background: orange;
+}
+.blue{
+    background: blue;
+    color: white;
+}
+.grey{
+    background:lightgrey;
+}
+.black{
+    background: black;
+    color: white;
+}
+
+.bg-img{
+    background-image: url("../images/clone1-lance-anderson-395983.jpg");
+    background-repeat: no-repeat;
+    background-position: center center; 
+}
+.white-bg{
+    background: rgba(255, 255, 255, 0.336)
+}
+.blue-deep{
+    background: rgba(5, 142, 150, 1.0);
+    color: white;
+}
+.burnt-orange{
+    background: rgba(239, 97, 27, 1.0);
+    color: white;
+}
+.bg-org{
+    background-image: url("../images/clone1-orange-burnt-bg.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    color: white; 
+}
+.map{
+    background-image: url("../images/map.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    opacity: .7;
+}
+/* Erase Me 
+
+.row{
+    height: 500px;
+}
+
+*/
+
+
+.height-holder{
+    height: 500px;
+}
+
+.h250{
+    height:250px;
+}
+.h300{
+    height:300px;
+}
+.h350{
+    height:350px;
+}
+.h400{
+    height:400px;
+}
+.h450{
+    height:450px;
+}
+
+/* HELPERS */
+
+.p-1{
+    padding: 1rem;
+}
+.p-2{
+    padding: 2rem;
+}
+
+.m-1{
+    margin: 1rem;
+}
+.m-2{
+    margin: 2rem;
+}
+
+.m-l-1{
+    margin-left: 1rem;
+}
+
+.m-l-2{
+    margin-left: 2rem;
+}
+
+.m-t-1{
+    margin-top: 1rem;
+}
+
+/* TYPE HELPERS*/
+
+.sm-type{
+    font-size: .8rem;
+}
